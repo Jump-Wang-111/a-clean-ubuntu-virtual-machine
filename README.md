@@ -1,4 +1,4 @@
-# a-clear-ubuntu-virtual-machine
+# a-clean-ubuntu-virtual-machine
 
 ​	最近，由于本人的好友在安装vmware的时候被vmtools折磨的死去活来，我在帮他安装的过程也感觉到了这东西实在是有点玄学
 
